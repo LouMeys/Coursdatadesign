@@ -1,5 +1,5 @@
 # Coursdatadesign
 
-La version libe des fichiers est ici :
+La version live des fichiers est ici :
 
 https://loumeys.github.io/Coursdatadesign/
